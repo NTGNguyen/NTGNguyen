@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+NTG+Nguyen!;" />
 </h1>
 <h2 align="center">
-🔭 I’m currently studying in University Of TechNology<br>🌱 I’m currently learning Computer Science<br>📫 How to reach me : nguyen80339@gmail.com<br>⚡ Fun fact:Love Cat and Single
+🔭 I’m currently studying in University Of TechNology<br>🌱 I’m currently learning Computer Science<br>📫 How to reach me : nguyen80339@gmail.com<br>⚡ Fun fact:Love Cat and Bunnie
 </h2>
 
 <hr>
