@@ -18,10 +18,6 @@
 			<td>Nguyễn Thái Gia Nguyễn</td>
 		</tr>
 		<tr>
-			<td align="center"><strong>IN RELATIONSHIP WITH</strong></td>
-			<td><b><a href="https://www.facebook.com/iamcognoab">Bunnie 🐰</a></b></td>
-        </tr>
-		<tr>
 			<td align="center"><strong>GENDER</strong></td>
 			<td>Male 👨</td>
 		</tr>
