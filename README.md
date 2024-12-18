@@ -97,43 +97,6 @@
 </div>
 <hr>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2023%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 277 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 10 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                269 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-🌆 Daytime                614 commits         ██████████░░░░░░░░░░░░░░░   40.74 % 
-🌃 Evening                502 commits         ████████░░░░░░░░░░░░░░░░░   33.31 % 
-🌙 Night                  122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Tuesday                  277 commits         █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
-Wednesday                208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Thursday                 245 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Friday                   77 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Saturday                 393 commits         ███████░░░░░░░░░░░░░░░░░░   26.08 % 
-Sunday                   103 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -171,12 +134,8 @@ HTML                     1 repo              ███░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/NTGNguyen/NTGNguyen/main/assets/bar_graph.png)
-
-
- Last Updated on 18/12/2024 12:42:08 UTC
+ Last Updated on 18/12/2024 12:43:05 UTC
 <!--END_SECTION:waka-->
 <hr>
 <div align="center">
