@@ -1,4 +1,4 @@
-name: NTGNguyen Waka-Time Auto-update Readme
+name: Waka NTGNGUYEN Readme
 
 on:
   schedule:
@@ -6,17 +6,7 @@ on:
     - cron: '30 18 * * *'
   workflow_dispatch:
 jobs:
-  update:
-    runs-on: ubuntu-latest
-    name: Update Profile README
-    permissions:
-      contents: write
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@main
-      - uses: Readme-Workflows/recent-activity@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
