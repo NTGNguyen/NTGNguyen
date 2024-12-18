@@ -96,6 +96,12 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@NTGNGuyen/239ef663-ee97-48ea-a118-c40862c09ac2.png" /></a>
 </div>
 <hr>
+<!--START_SECTION:waka-->
+
+
+
+<!--END_SECTION:waka-->
+<hr>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
