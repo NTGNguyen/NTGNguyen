@@ -96,6 +96,7 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@NTGNGuyen/239ef663-ee97-48ea-a118-c40862c09ac2.png" /></a>
 </div>
 <hr>
+<h2 align = "center" style="margin-top:20px ">🕘 WakaTime 🕘</h2> 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
