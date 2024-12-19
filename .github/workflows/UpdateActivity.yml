@@ -18,3 +18,4 @@ jobs:
         with:
           COMMIT_MSG: "Specify a custom commit message"
           COMMIT_NAME: GitHub Activity Readme
+          MAX_LINE: 10
