@@ -142,6 +142,12 @@ HTML                     1 repo              ███░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 1 commit(s) to [NTGNguyen/NTGNguyen](https://github.com/NTGNguyen/NTGNguyen)<br>
+2. ⬆️ Pushed 1 commit(s) to [NTGNguyen/NTGNguyen](https://github.com/NTGNguyen/NTGNguyen)<br>
+3. ⬆️ Pushed 1 commit(s) to [NTGNguyen/NTGNguyen](https://github.com/NTGNguyen/NTGNguyen)<br>
+4. ⬆️ Pushed 1 commit(s) to [NTGNguyen/NTGNguyen](https://github.com/NTGNguyen/NTGNguyen)<br>
+5. ⬆️ Pushed 1 commit(s) to [NTGNguyen/NTGNguyen](https://github.com/NTGNguyen/NTGNguyen)<br>
+<!--RECENT_ACTIVITY:end-->
 
  
 
