@@ -140,6 +140,12 @@ HTML                     1 repo              ███░░░░░░░░�
 <!--END_SECTION:waka-->
 <hr>
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#12](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization/pull/12) in [NTGNguyen/Q-Learning_Graph-Visualization](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization)
+2. 🎉 Merged PR [#9](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization/pull/9) in [NTGNguyen/Q-Learning_Graph-Visualization](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization)
+3. ❌ Closed PR [#3](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization/pull/3) in [NTGNguyen/Q-Learning_Graph-Visualization](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization)
+4. 🎉 Merged PR [#5](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization/pull/5) in [NTGNguyen/Q-Learning_Graph-Visualization](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization)
+5. 🎉 Merged PR [#2](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization/pull/2) in [NTGNguyen/Q-Learning_Graph-Visualization](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization)
+<!--END_SECTION:activity-->
 
  
 
