@@ -139,11 +139,9 @@ HTML                     1 repo              ███░░░░░░░░�
  Last Updated on 18/12/2024 18:46:00 UTC
 <!--END_SECTION:waka-->
 <hr>
-<div align="center">
 <!--START_SECTION:activity-->
 
- <!--END_SECTION:activity-->
-</div>
+ 
 
 
 
