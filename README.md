@@ -142,10 +142,10 @@ HTML                     1 repo              ███░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [NTGNguyen/Q-Learning_Graph-Visualization](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization)<br>
-2. ⬆️ Pushed 1 commit(s) to [NTGNguyen/NTGNguyen](https://github.com/NTGNguyen/NTGNguyen)<br>
-3. ⭐ Starred [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix)<br>
-4. ⬆️ Pushed 1 commit(s) to [NTGNguyen/NTGNguyen](https://github.com/NTGNguyen/NTGNguyen)<br>
+1. ⬆️ Pushed 2 commit(s) to [NTGNguyen/Q-Learning_Graph-Visualization](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization)<br>
+2. 🎉 Merged PR [#13](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization/pull/13) in [NTGNguyen/Q-Learning_Graph-Visualization](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization)<br>
+3. ⬆️ Pushed 1 commit(s) to [NTGNguyen/Q-Learning_Graph-Visualization](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization)<br>
+4. ⬆️ Pushed 1 commit(s) to [NTGNguyen/Q-Learning_Graph-Visualization](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization)<br>
 5. ⬆️ Pushed 1 commit(s) to [NTGNguyen/NTGNguyen](https://github.com/NTGNguyen/NTGNguyen)<br>
 <!--RECENT_ACTIVITY:end-->
 
