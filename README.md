@@ -144,10 +144,10 @@ HTML                     1 repo              ███░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [NTGNguyen/NTGNguyen](https://github.com/NTGNguyen/NTGNguyen)<br>
-2. ⬆️ Pushed 1 commit(s) to [NTGNguyen/NTGNguyen](https://github.com/NTGNguyen/NTGNguyen)<br>
-3. ⬆️ Pushed 1 commit(s) to [NTGNguyen/Q-Learning_Graph-Visualization](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization)<br>
+2. ⬆️ Pushed 2 commit(s) to [NTGNguyen/Q-Learning_Graph-Visualization](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization)<br>
+3. 🎉 Merged PR [#16](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization/pull/16) in [NTGNguyen/Q-Learning_Graph-Visualization](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization)<br>
 4. ⬆️ Pushed 1 commit(s) to [NTGNguyen/Q-Learning_Graph-Visualization](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization)<br>
-5. ⬆️ Pushed 3 commit(s) to [NTGNguyen/Q-Learning_Graph-Visualization](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization)<br>
+5. ⬆️ Pushed 1 commit(s) to [NTGNguyen/NTGNguyen](https://github.com/NTGNguyen/NTGNguyen)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
