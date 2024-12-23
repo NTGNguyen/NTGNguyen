@@ -144,10 +144,10 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/check-phat-nguoi](https://github.com/KevinNitroG/check-phat-nguoi)<br>
-2. ⬆️ Pushed 1 commit(s) to [NTGNguyen/NTGNguyen](https://github.com/NTGNguyen/NTGNguyen)<br>
+2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/gha-check-phat-nguoi](https://github.com/KevinNitroG/gha-check-phat-nguoi)<br>
 3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/gha-check-phat-nguoi](https://github.com/KevinNitroG/gha-check-phat-nguoi)<br>
 4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/gha-check-phat-nguoi](https://github.com/KevinNitroG/gha-check-phat-nguoi)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/gha-check-phat-nguoi](https://github.com/KevinNitroG/gha-check-phat-nguoi)<br>
+5. ⭐ Starred [KevinNitroG/gha-check-phat-nguoi](https://github.com/KevinNitroG/gha-check-phat-nguoi)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
