@@ -6,8 +6,8 @@ settings:
     timezone: "Asia/Ho_Chi_Minh"
     text: "Last Updated on {DATE}"
     format: "dddd, d/m/yy h:mm TT"
-    ignored_repos: 
-     - NTGNguyen/NTGNguyen
+  ignored_repos: 
+    - NTGNguyen/NTGNguyen
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
   push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}"
