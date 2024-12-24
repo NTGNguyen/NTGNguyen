@@ -143,11 +143,11 @@ HTML                     1 repo              ██░░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [KevinNitroG/check-phat-nguoi](https://github.com/KevinNitroG/check-phat-nguoi)<br>
+1. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
 2. ⬆️ Pushed 1 commit(s) to [KevinNitroG/check-phat-nguoi](https://github.com/KevinNitroG/check-phat-nguoi)<br>
-3. ⬆️ Pushed 2 commit(s) to [KevinNitroG/check-phat-nguoi](https://github.com/KevinNitroG/check-phat-nguoi)<br>
-4. ⬆️ Pushed 1 commit(s) to [KevinNitroG/check-phat-nguoi](https://github.com/KevinNitroG/check-phat-nguoi)<br>
-5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/gha-check-phat-nguoi](https://github.com/KevinNitroG/gha-check-phat-nguoi)<br>
+3. ⬆️ Pushed 1 commit(s) to [KevinNitroG/check-phat-nguoi](https://github.com/KevinNitroG/check-phat-nguoi)<br>
+4. ⬆️ Pushed 2 commit(s) to [KevinNitroG/check-phat-nguoi](https://github.com/KevinNitroG/check-phat-nguoi)<br>
+5. ⬆️ Pushed 1 commit(s) to [KevinNitroG/check-phat-nguoi](https://github.com/KevinNitroG/check-phat-nguoi)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
