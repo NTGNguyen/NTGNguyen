@@ -146,9 +146,9 @@ HTML                     1 repo              ██░░░░░░░░░�
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
 2. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-3. ⬆️ Pushed 1 commit(s) to [NTGNguyen/IT004-CS115-UIT](https://github.com/NTGNguyen/IT004-CS115-UIT)<br>
-4. ⬆️ Pushed 1 commit(s) to [NTGNguyen/IT004-CS115-UIT](https://github.com/NTGNguyen/IT004-CS115-UIT)<br>
-5. ⬆️ Pushed 1 commit(s) to [NTGNguyen/LDA-QDA-FinalProject-CS115-UIT](https://github.com/NTGNguyen/LDA-QDA-FinalProject-CS115-UIT)<br>
+3. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+4. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+5. ⬆️ Pushed 1 commit(s) to [NTGNguyen/IT004-CS115-UIT](https://github.com/NTGNguyen/IT004-CS115-UIT)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
