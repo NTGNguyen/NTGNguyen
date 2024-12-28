@@ -144,9 +144,9 @@ HTML                     1 repo              ██░░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [khaneliman/dotfiles](https://github.com/khaneliman/dotfiles)<br>
-2. 🔱 Forked [NTGNguyen/nvim](https://github.com/NTGNguyen/nvim) from [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
-3. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+1. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+2. ⭐ Starred [khaneliman/dotfiles](https://github.com/khaneliman/dotfiles)<br>
+3. 🔱 Forked [NTGNguyen/nvim](https://github.com/NTGNguyen/nvim) from [KevinNitroG/nvim](https://github.com/KevinNitroG/nvim)<br>
 4. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
 5. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
 <!--RECENT_ACTIVITY:end-->
