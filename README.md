@@ -144,11 +144,11 @@ HTML                     1 repo              ██░░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-2. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-3. ⬆️ Pushed 1 commit(s) to [NTGNguyen/IT004-CS115-UIT](https://github.com/NTGNguyen/IT004-CS115-UIT)<br>
-4. ⭐ Starred [glzr-io/glazewm](https://github.com/glzr-io/glazewm)<br>
-5. ⭐ Starred [twpayne/chezmoi](https://github.com/twpayne/chezmoi)<br>
+1. ⭐ Starred [egoist/tsup](https://github.com/egoist/tsup)<br>
+2. ⭐ Starred [webpro-nl/knip](https://github.com/webpro-nl/knip)<br>
+3. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+4. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+5. ⬆️ Pushed 1 commit(s) to [NTGNguyen/IT004-CS115-UIT](https://github.com/NTGNguyen/IT004-CS115-UIT)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
