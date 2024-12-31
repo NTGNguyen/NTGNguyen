@@ -142,11 +142,11 @@ HTML                     1 repo              ██░░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+1. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)<br>
 2. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-3. ⭐ Starred [egoist/tsup](https://github.com/egoist/tsup)<br>
-4. ⭐ Starred [webpro-nl/knip](https://github.com/webpro-nl/knip)<br>
-5. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+3. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+4. ⭐ Starred [egoist/tsup](https://github.com/egoist/tsup)<br>
+5. ⭐ Starred [webpro-nl/knip](https://github.com/webpro-nl/knip)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
