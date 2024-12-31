@@ -143,9 +143,9 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-2. ⭐ Starred [egoist/tsup](https://github.com/egoist/tsup)<br>
-3. ⭐ Starred [webpro-nl/knip](https://github.com/webpro-nl/knip)<br>
-4. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+2. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+3. ⭐ Starred [egoist/tsup](https://github.com/egoist/tsup)<br>
+4. ⭐ Starred [webpro-nl/knip](https://github.com/webpro-nl/knip)<br>
 5. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
 <!--RECENT_ACTIVITY:end-->
 
