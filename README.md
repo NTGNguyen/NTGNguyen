@@ -144,11 +144,11 @@ HTML                     1 repo              ██░░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-2. ⭐ Starred [tjenkinson/eslint-plugin-redos-detector](https://github.com/tjenkinson/eslint-plugin-redos-detector)<br>
-3. ⭐ Starred [arshad-yaseen/monacopilot](https://github.com/arshad-yaseen/monacopilot)<br>
-4. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-5. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)<br>
+1. ⭐ Starred [AnPhuoc2410/QuizApp](https://github.com/AnPhuoc2410/QuizApp)<br>
+2. ⭐ Starred [ManiMozaffar/cfcrawler](https://github.com/ManiMozaffar/cfcrawler)<br>
+3. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+4. ⭐ Starred [tjenkinson/eslint-plugin-redos-detector](https://github.com/tjenkinson/eslint-plugin-redos-detector)<br>
+5. ⭐ Starred [arshad-yaseen/monacopilot](https://github.com/arshad-yaseen/monacopilot)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
