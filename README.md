@@ -144,10 +144,10 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-2. ⭐ Starred [denoland/deno](https://github.com/denoland/deno)<br>
-3. ⭐ Starred [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder)<br>
-4. ⭐ Starred [AnPhuoc2410/QuizApp](https://github.com/AnPhuoc2410/QuizApp)<br>
-5. ⭐ Starred [ManiMozaffar/cfcrawler](https://github.com/ManiMozaffar/cfcrawler)<br>
+2. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+3. ⭐ Starred [denoland/deno](https://github.com/denoland/deno)<br>
+4. ⭐ Starred [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder)<br>
+5. ⭐ Starred [AnPhuoc2410/QuizApp](https://github.com/AnPhuoc2410/QuizApp)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
