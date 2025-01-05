@@ -143,11 +143,11 @@ HTML                     1 repo              ██░░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-2. ⭐ Starred [NTGNguyen/nvim](https://github.com/NTGNguyen/nvim)<br>
+1. ⭐ Starred [HospitalRun/hospitalrun](https://github.com/HospitalRun/hospitalrun)<br>
+2. ⭐ Starred [HospitalRun/components](https://github.com/HospitalRun/components)<br>
 3. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-4. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-5. ⭐ Starred [denoland/deno](https://github.com/denoland/deno)<br>
+4. ⭐ Starred [NTGNguyen/nvim](https://github.com/NTGNguyen/nvim)<br>
+5. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
