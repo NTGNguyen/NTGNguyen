@@ -143,11 +143,11 @@ HTML                     1 repo              ██░░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+1. ⭐ Starred [NTGNguyen/nvim](https://github.com/NTGNguyen/nvim)<br>
 2. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-3. ⭐ Starred [denoland/deno](https://github.com/denoland/deno)<br>
-4. ⭐ Starred [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder)<br>
-5. ⭐ Starred [AnPhuoc2410/QuizApp](https://github.com/AnPhuoc2410/QuizApp)<br>
+3. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+4. ⭐ Starred [denoland/deno](https://github.com/denoland/deno)<br>
+5. ⭐ Starred [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
