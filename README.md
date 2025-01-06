@@ -145,9 +145,9 @@ HTML                     1 repo              ██░░░░░░░░░�
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
 2. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-3. ⭐ Starred [HospitalRun/hospitalrun](https://github.com/HospitalRun/hospitalrun)<br>
-4. ⭐ Starred [HospitalRun/components](https://github.com/HospitalRun/components)<br>
-5. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+3. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+4. ⭐ Starred [HospitalRun/hospitalrun](https://github.com/HospitalRun/hospitalrun)<br>
+5. ⭐ Starred [HospitalRun/components](https://github.com/HospitalRun/components)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
