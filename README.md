@@ -143,11 +143,11 @@ HTML                     1 repo              ██░░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-2. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-3. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-4. ⭐ Starred [HospitalRun/hospitalrun](https://github.com/HospitalRun/hospitalrun)<br>
-5. ⭐ Starred [HospitalRun/components](https://github.com/HospitalRun/components)<br>
+1. ⭐ Starred [hungcqa23/api_food_management](https://github.com/hungcqa23/api_food_management)<br>
+2. ⭐ Starred [vercel/ai](https://github.com/vercel/ai)<br>
+3. ⭐ Starred [vercel/ai](https://github.com/vercel/ai)<br>
+4. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+5. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
