@@ -143,11 +143,11 @@ HTML                     1 repo              ██░░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vercel/sdk](https://github.com/vercel/sdk)<br>
-2. ⭐ Starred [hungcqa23/api_food_management](https://github.com/hungcqa23/api_food_management)<br>
-3. ⭐ Starred [vercel/ai](https://github.com/vercel/ai)<br>
+1. ⭐ Starred [kyegomez/swarms](https://github.com/kyegomez/swarms)<br>
+2. ⭐ Starred [vercel/sdk](https://github.com/vercel/sdk)<br>
+3. ⭐ Starred [hungcqa23/api_food_management](https://github.com/hungcqa23/api_food_management)<br>
 4. ⭐ Starred [vercel/ai](https://github.com/vercel/ai)<br>
-5. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+5. ⭐ Starred [vercel/ai](https://github.com/vercel/ai)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
