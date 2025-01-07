@@ -143,11 +143,11 @@ HTML                     1 repo              ██░░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#25](https://github.com/NTGNguyen/check-phat-nguoi/pull/25) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-2. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-3. ⭐ Starred [kyegomez/swarms](https://github.com/kyegomez/swarms)<br>
-4. ⭐ Starred [vercel/sdk](https://github.com/vercel/sdk)<br>
-5. ⭐ Starred [hungcqa23/api_food_management](https://github.com/hungcqa23/api_food_management)<br>
+1. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+2. 💪 Opened PR [#25](https://github.com/NTGNguyen/check-phat-nguoi/pull/25) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+3. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+4. ⭐ Starred [kyegomez/swarms](https://github.com/kyegomez/swarms)<br>
+5. ⭐ Starred [vercel/sdk](https://github.com/vercel/sdk)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
