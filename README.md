@@ -145,9 +145,9 @@ HTML                     1 repo              ██░░░░░░░░░�
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
 2. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-3. 💪 Opened PR [#25](https://github.com/NTGNguyen/check-phat-nguoi/pull/25) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-4. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-5. ⭐ Starred [kyegomez/swarms](https://github.com/kyegomez/swarms)<br>
+3. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+4. 💪 Opened PR [#25](https://github.com/NTGNguyen/check-phat-nguoi/pull/25) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+5. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
