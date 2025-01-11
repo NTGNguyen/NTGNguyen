@@ -140,11 +140,11 @@ HTML                     1 repo              ██░░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sxyazi/yazi](https://github.com/sxyazi/yazi)<br>
-2. ⭐ Starred [ndtoan96/ouch.yazi](https://github.com/ndtoan96/ouch.yazi)<br>
-3. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-4. ⭐ Starred [laurent22/joplin](https://github.com/laurent22/joplin)<br>
-5. ⭐ Starred [sourcemeta/alterschema](https://github.com/sourcemeta/alterschema)<br>
+1. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+2. ⭐ Starred [sxyazi/yazi](https://github.com/sxyazi/yazi)<br>
+3. ⭐ Starred [ndtoan96/ouch.yazi](https://github.com/ndtoan96/ouch.yazi)<br>
+4. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+5. ⭐ Starred [laurent22/joplin](https://github.com/laurent22/joplin)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
