@@ -140,11 +140,11 @@ HTML                     1 repo              ██░░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)<br>
-2. ⭐ Starred [modiimedia/arri](https://github.com/modiimedia/arri)<br>
-3. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+1. 💪 Opened PR [#35](https://github.com/NTGNguyen/check-phat-nguoi/pull/35) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+2. ⭐ Starred [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)<br>
+3. ⭐ Starred [modiimedia/arri](https://github.com/modiimedia/arri)<br>
 4. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-5. 💬 Commented on [#31](https://github.com/NTGNguyen/check-phat-nguoi/issues/31#issuecomment-2585361820) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+5. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
