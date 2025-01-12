@@ -140,11 +140,11 @@ HTML                     1 repo              ██░░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#35](https://github.com/NTGNguyen/check-phat-nguoi/pull/35) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-2. ⭐ Starred [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)<br>
-3. ⭐ Starred [modiimedia/arri](https://github.com/modiimedia/arri)<br>
-4. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-5. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+1. ⭐ Starred [alisonjenkins/neovim-nix-flake](https://github.com/alisonjenkins/neovim-nix-flake)<br>
+2. ⭐ Starred [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent)<br>
+3. 💪 Opened PR [#35](https://github.com/NTGNguyen/check-phat-nguoi/pull/35) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+4. ⭐ Starred [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)<br>
+5. ⭐ Starred [modiimedia/arri](https://github.com/modiimedia/arri)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
