@@ -140,11 +140,11 @@ HTML                     1 repo              ██░░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [coder/code-server](https://github.com/coder/code-server)<br>
-2. ⭐ Starred [alisonjenkins/neovim-nix-flake](https://github.com/alisonjenkins/neovim-nix-flake)<br>
-3. ⭐ Starred [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent)<br>
-4. 💪 Opened PR [#35](https://github.com/NTGNguyen/check-phat-nguoi/pull/35) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-5. ⭐ Starred [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)<br>
+1. ⬆️ Pushed 42 commit(s) to [NTGNguyen/nvim](https://github.com/NTGNguyen/nvim)<br>
+2. ⭐ Starred [coder/code-server](https://github.com/coder/code-server)<br>
+3. ⭐ Starred [alisonjenkins/neovim-nix-flake](https://github.com/alisonjenkins/neovim-nix-flake)<br>
+4. ⭐ Starred [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent)<br>
+5. 💪 Opened PR [#35](https://github.com/NTGNguyen/check-phat-nguoi/pull/35) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
