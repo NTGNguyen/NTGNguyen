@@ -141,10 +141,10 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-2. ⬆️ Pushed 2 commit(s) to [NTGNguyen/nvim](https://github.com/NTGNguyen/nvim)<br>
-3. ⬆️ Pushed 1 commit(s) to [NTGNguyen/nvim](https://github.com/NTGNguyen/nvim)<br>
-4. ⭐ Starred [DZakh/rescript-schema](https://github.com/DZakh/rescript-schema)<br>
-5. ⬆️ Pushed 42 commit(s) to [NTGNguyen/nvim](https://github.com/NTGNguyen/nvim)<br>
+2. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+3. ⬆️ Pushed 2 commit(s) to [NTGNguyen/nvim](https://github.com/NTGNguyen/nvim)<br>
+4. ⬆️ Pushed 1 commit(s) to [NTGNguyen/nvim](https://github.com/NTGNguyen/nvim)<br>
+5. ⭐ Starred [DZakh/rescript-schema](https://github.com/DZakh/rescript-schema)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
