@@ -140,11 +140,11 @@ HTML                     1 repo              ██░░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+1. 💪 Opened PR [#37](https://github.com/NTGNguyen/check-phat-nguoi/pull/37) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
 2. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-3. ⬆️ Pushed 2 commit(s) to [NTGNguyen/nvim](https://github.com/NTGNguyen/nvim)<br>
-4. ⬆️ Pushed 1 commit(s) to [NTGNguyen/nvim](https://github.com/NTGNguyen/nvim)<br>
-5. ⭐ Starred [DZakh/rescript-schema](https://github.com/DZakh/rescript-schema)<br>
+3. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+4. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+5. ⬆️ Pushed 2 commit(s) to [NTGNguyen/nvim](https://github.com/NTGNguyen/nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
