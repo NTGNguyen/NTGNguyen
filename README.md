@@ -142,10 +142,10 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-2. ⭐ Starred [AnirudhG07/awesome-yazi](https://github.com/AnirudhG07/awesome-yazi)<br>
+2. 🎉 Merged PR [#37](https://github.com/NTGNguyen/check-phat-nguoi/pull/37) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
 3. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-4. 💬 Commented on [#36](https://github.com/NTGNguyen/check-phat-nguoi/issues/36#issuecomment-2589400296) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
-5. 💬 Commented on [#36](https://github.com/NTGNguyen/check-phat-nguoi/issues/36#issuecomment-2589364901) in [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+4. ⬆️ Pushed 1 commit(s) to [NTGNguyen/check-phat-nguoi](https://github.com/NTGNguyen/check-phat-nguoi)<br>
+5. ⭐ Starred [AnirudhG07/awesome-yazi](https://github.com/AnirudhG07/awesome-yazi)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
