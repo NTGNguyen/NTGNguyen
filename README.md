@@ -142,10 +142,10 @@ HTML                     1 repo              ███░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [NTGNguyen/Q-Learning_Graph-Visualization](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization)<br>
-2. 💪 Opened PR [#51](https://github.com/check-phat-nguoi/cpn-legacy/pull/51) in [check-phat-nguoi/cpn-legacy](https://github.com/check-phat-nguoi/cpn-legacy)<br>
-3. ⬆️ Pushed 1 commit(s) to [NTGNguyen/Q-Learning_Graph-Visualization](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization)<br>
+2. ⬆️ Pushed 1 commit(s) to [NTGNguyen/Q-Learning_Graph-Visualization](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization)<br>
+3. ⭐ Starred [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
 4. ⬆️ Pushed 1 commit(s) to [NTGNguyen/Q-Learning_Graph-Visualization](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization)<br>
-5. ⬆️ Pushed 1 commit(s) to [NTGNguyen/Q-Learning_Graph-Visualization](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization)<br>
+5. 💪 Opened PR [#51](https://github.com/check-phat-nguoi/cpn-legacy/pull/51) in [check-phat-nguoi/cpn-legacy](https://github.com/check-phat-nguoi/cpn-legacy)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
