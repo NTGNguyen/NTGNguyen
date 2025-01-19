@@ -139,11 +139,11 @@ TSQL                     1 repo              █████░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fauzaanu/telegram-bot-starter](https://github.com/fauzaanu/telegram-bot-starter)<br>
-2. ⭐ Starred [microsoft/terminal](https://github.com/microsoft/terminal)<br>
-3. ⭐ Starred [check-phat-nguoi/.github](https://github.com/check-phat-nguoi/.github)<br>
-4. ⭐ Starred [check-phat-nguoi/cpn-gha](https://github.com/check-phat-nguoi/cpn-gha)<br>
-5. ⭐ Starred [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog)<br>
+1. 💬 Commented on [#8](https://github.com/check-phat-nguoi/cpn-core/pull/8#issuecomment-2600727594) in [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+2. ⭐ Starred [fauzaanu/telegram-bot-starter](https://github.com/fauzaanu/telegram-bot-starter)<br>
+3. ⭐ Starred [microsoft/terminal](https://github.com/microsoft/terminal)<br>
+4. ⭐ Starred [check-phat-nguoi/.github](https://github.com/check-phat-nguoi/.github)<br>
+5. ⭐ Starred [check-phat-nguoi/cpn-gha](https://github.com/check-phat-nguoi/cpn-gha)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
