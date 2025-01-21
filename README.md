@@ -141,11 +141,11 @@ TSQL                     1 repo              █████░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lttb/gh-actions-language-server](https://github.com/lttb/gh-actions-language-server)<br>
-2. ⭐ Starred [apache/superset](https://github.com/apache/superset)<br>
-3. ⭐ Starred [Dokploy/dokploy](https://github.com/Dokploy/dokploy)<br>
-4. ⭐ Starred [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui)<br>
-5. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+1. 💪 Opened PR [#10](https://github.com/check-phat-nguoi/cpn-core/pull/10) in [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+2. ⭐ Starred [lttb/gh-actions-language-server](https://github.com/lttb/gh-actions-language-server)<br>
+3. ⭐ Starred [apache/superset](https://github.com/apache/superset)<br>
+4. ⭐ Starred [Dokploy/dokploy](https://github.com/Dokploy/dokploy)<br>
+5. ⭐ Starred [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
