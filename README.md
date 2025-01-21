@@ -141,11 +141,11 @@ TSQL                     1 repo              █████░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui)<br>
-2. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-3. 💬 Commented on [#8](https://github.com/check-phat-nguoi/cpn-core/pull/8#issuecomment-2600727594) in [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-4. ⭐ Starred [fauzaanu/telegram-bot-starter](https://github.com/fauzaanu/telegram-bot-starter)<br>
-5. ⭐ Starred [microsoft/terminal](https://github.com/microsoft/terminal)<br>
+1. ⭐ Starred [lttb/gh-actions-language-server](https://github.com/lttb/gh-actions-language-server)<br>
+2. ⭐ Starred [apache/superset](https://github.com/apache/superset)<br>
+3. ⭐ Starred [Dokploy/dokploy](https://github.com/Dokploy/dokploy)<br>
+4. ⭐ Starred [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui)<br>
+5. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
