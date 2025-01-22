@@ -140,11 +140,11 @@ TSQL                     1 repo              █████░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#12](https://github.com/check-phat-nguoi/cpn-core/pull/12#issuecomment-2606287971) in [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-2. 💪 Opened PR [#12](https://github.com/check-phat-nguoi/cpn-core/pull/12) in [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-3. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-4. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-5. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+1. ⭐ Starred [lttb/gh-actions-language-server](https://github.com/lttb/gh-actions-language-server)<br>
+2. ⭐ Starred [denoland/std](https://github.com/denoland/std)<br>
+3. ⭐ Starred [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents)<br>
+4. 💬 Commented on [#12](https://github.com/check-phat-nguoi/cpn-core/pull/12#issuecomment-2606287971) in [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+5. 💪 Opened PR [#12](https://github.com/check-phat-nguoi/cpn-core/pull/12) in [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
