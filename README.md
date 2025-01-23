@@ -142,9 +142,9 @@ TSQL                     1 repo              █████░░░░░░�
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
 2. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-3. ⬆️ Pushed 24 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-4. ⭐ Starred [lttb/gh-actions-language-server](https://github.com/lttb/gh-actions-language-server)<br>
-5. ⭐ Starred [denoland/std](https://github.com/denoland/std)<br>
+3. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+4. ⬆️ Pushed 24 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+5. ⭐ Starred [lttb/gh-actions-language-server](https://github.com/lttb/gh-actions-language-server)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
