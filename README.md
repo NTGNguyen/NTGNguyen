@@ -141,11 +141,11 @@ TSQL                     1 repo              █████░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)<br>
+1. 💪 Opened PR [#13](https://github.com/check-phat-nguoi/cpn-cli/pull/13) in [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
 2. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-3. ⭐ Starred [souporserious/renoun](https://github.com/souporserious/renoun)<br>
-4. 💪 Opened PR [#8](https://github.com/check-phat-nguoi/cpn-cli/pull/8) in [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
-5. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+3. ⭐ Starred [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)<br>
+4. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+5. ⭐ Starred [souporserious/renoun](https://github.com/souporserious/renoun)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
