@@ -140,11 +140,11 @@ TSQL                     1 repo              █████░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#13](https://github.com/check-phat-nguoi/cpn-cli/pull/13) in [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
-2. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-3. ⭐ Starred [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)<br>
-4. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-5. ⭐ Starred [souporserious/renoun](https://github.com/souporserious/renoun)<br>
+1. ⭐ Starred [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)<br>
+2. 💪 Opened PR [#13](https://github.com/check-phat-nguoi/cpn-cli/pull/13) in [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
+3. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
+4. ⭐ Starred [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)<br>
+5. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
