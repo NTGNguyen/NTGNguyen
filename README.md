@@ -105,18 +105,16 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   9 mins              ██████████████████████░░░   86.57 % 
-YAML                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cli                      6 mins              ███████████████░░░░░░░░░░   61.30 % 
-core                     4 mins              ██████████░░░░░░░░░░░░░░░   38.70 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -129,7 +127,7 @@ TSQL                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 01/02/2025 18:39:12 UTC
+ Last Updated on 02/02/2025 18:41:39 UTC
 <!--END_SECTION:waka-->
 <hr>
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
