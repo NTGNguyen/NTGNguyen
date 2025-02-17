@@ -140,11 +140,11 @@ TSQL                     1 repo              █████░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [aidenybai/react-scan](https://github.com/aidenybai/react-scan)<br>
-2. ⭐ Starred [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)<br>
-3. 💪 Opened PR [#13](https://github.com/check-phat-nguoi/cpn-cli/pull/13) in [check-phat-nguoi/cpn-cli](https://github.com/check-phat-nguoi/cpn-cli)<br>
-4. ⬆️ Pushed 1 commit(s) to [check-phat-nguoi/cpn-core](https://github.com/check-phat-nguoi/cpn-core)<br>
-5. ⭐ Starred [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)<br>
+1. ⭐ Starred [loda-kun/spring-boot-learning](https://github.com/loda-kun/spring-boot-learning)<br>
+2. ⭐ Starred [nodejs/node](https://github.com/nodejs/node)<br>
+3. ⭐ Starred [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)<br>
+4. ⭐ Starred [aidenybai/react-scan](https://github.com/aidenybai/react-scan)<br>
+5. ⭐ Starred [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
