@@ -137,11 +137,11 @@ TSQL                     1 repo              █████░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [loda-kun/spring-boot-learning](https://github.com/loda-kun/spring-boot-learning)<br>
-2. ⭐ Starred [nodejs/node](https://github.com/nodejs/node)<br>
-3. ⭐ Starred [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)<br>
-4. ⭐ Starred [aidenybai/react-scan](https://github.com/aidenybai/react-scan)<br>
-5. ⭐ Starred [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)<br>
+1. 📔 Created new repository [coinhub-uit/coinhub-fe](https://github.com/coinhub-uit/coinhub-fe)<br>
+2. ⭐ Starred [loda-kun/spring-boot-learning](https://github.com/loda-kun/spring-boot-learning)<br>
+3. ⭐ Starred [nodejs/node](https://github.com/nodejs/node)<br>
+4. ⭐ Starred [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2)<br>
+5. ⭐ Starred [aidenybai/react-scan](https://github.com/aidenybai/react-scan)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
