@@ -137,8 +137,8 @@ TSQL                     1 repo              ████░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
-2. 💬 Commented on [#6](https://github.com/coinhub-uit/mobile/pull/6#issuecomment-2676311879) in [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
-3. 💪 Opened PR [#6](https://github.com/coinhub-uit/mobile/pull/6) in [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
+3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
 4. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
 5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
 <!--RECENT_ACTIVITY:end-->
