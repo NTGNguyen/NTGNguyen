@@ -137,10 +137,10 @@ TSQL                     1 repo              ████░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-2. 💪 Opened PR [#2](https://github.com/coinhub-uit/server/pull/2) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-3. ❗️ Opened issue [#1](https://github.com/coinhub-uit/server/issues/1) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-4. 📔 Created new repository [coinhub-uit/web](https://github.com/coinhub-uit/web)<br>
-5. 📔 Created new repository [coinhub-uit/admin](https://github.com/coinhub-uit/admin)<br>
+2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+3. 💪 Opened PR [#2](https://github.com/coinhub-uit/server/pull/2) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+4. ❗️ Opened issue [#1](https://github.com/coinhub-uit/server/issues/1) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+5. 📔 Created new repository [coinhub-uit/web](https://github.com/coinhub-uit/web)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
