@@ -138,11 +138,11 @@ TSQL                     1 repo              ████░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+1. ⬆️ Pushed 6 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
 2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-3. ⭐ Starred [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates)<br>
-4. ⭐ Starred [iampawan/FlutterExampleApps](https://github.com/iampawan/FlutterExampleApps)<br>
-5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+4. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+5. ⭐ Starred [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
