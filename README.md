@@ -31,7 +31,7 @@
 		</tr>
 		<tr>
 			<td align="center"><strong>MAJOR</strong></td>
-			<td>Computer Science 🔬</td>
+			<td>Sofware Engineer🔬</td>
 		</tr>
 		<tr>
 			<td align="center"><strong>ANIMALS</strong></td>
