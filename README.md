@@ -143,10 +143,10 @@ Dart                     1 repo              ████░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-2. ⭐ Starred [Lacquer-UIT/Mobile](https://github.com/Lacquer-UIT/Mobile)<br>
-3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-4. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+1. ❗️ Opened issue [#3](https://github.com/Lacquer-UIT/Mobile/issues/3) in [Lacquer-UIT/Mobile](https://github.com/Lacquer-UIT/Mobile)<br>
+2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+3. ⭐ Starred [jacquindev/windots](https://github.com/jacquindev/windots)<br>
+4. ⭐ Starred [coinhub-uit/mobile](https://github.com/coinhub-uit/mobile)<br>
 5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
 <!--RECENT_ACTIVITY:end-->
 
