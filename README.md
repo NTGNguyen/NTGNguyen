@@ -144,10 +144,10 @@ Dart                     1 repo              ███░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-2. ✔️ Closed issue [#20](https://github.com/coinhub-uit/server/issues/20) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-3. 🎉 Merged PR [#24](https://github.com/coinhub-uit/server/pull/24) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-4. 👍 Approved [#24](https://github.com/coinhub-uit/server/pull/24#pullrequestreview-2727304582) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+3. ✔️ Closed issue [#20](https://github.com/coinhub-uit/server/issues/20) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+4. 🎉 Merged PR [#24](https://github.com/coinhub-uit/server/pull/24) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+5. 👍 Approved [#24](https://github.com/coinhub-uit/server/pull/24#pullrequestreview-2727304582) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
