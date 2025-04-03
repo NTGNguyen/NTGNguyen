@@ -144,11 +144,11 @@ Dart                     1 repo              ███░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+1. ⭐ Starred [MeReMa-UIT/final-report](https://github.com/MeReMa-UIT/final-report)<br>
+2. ⭐ Starred [iamdega/UIScroller](https://github.com/iamdega/UIScroller)<br>
+3. ⭐ Starred [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim)<br>
 4. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+5. ⬆️ Pushed 2 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
