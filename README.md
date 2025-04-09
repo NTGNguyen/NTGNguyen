@@ -143,10 +143,10 @@ Dart                     1 repo              ███░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [coinhub-uit/coinhub-uit.github.io](https://github.com/coinhub-uit/coinhub-uit.github.io)<br>
-2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-3. 💬 Commented on [#16](https://github.com/coinhub-uit/server/issues/16#issuecomment-2786180738) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-4. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+1. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/coinhub-uit.github.io](https://github.com/coinhub-uit/coinhub-uit.github.io)<br>
+3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+4. 💬 Commented on [#16](https://github.com/coinhub-uit/server/issues/16#issuecomment-2786180738) in [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
 5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
 <!--RECENT_ACTIVITY:end-->
 
