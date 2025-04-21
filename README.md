@@ -147,11 +147,11 @@ TypeScript               1 repo              ███░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1](https://github.com/NTGNguyen/dotfiles/pull/1) in [NTGNguyen/dotfiles](https://github.com/NTGNguyen/dotfiles)<br>
-2. 📔 Created new repository [NTGNguyen/dotfiles](https://github.com/NTGNguyen/dotfiles)<br>
-3. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
-4. ⭐ Starred [ashish0kumar/windots](https://github.com/ashish0kumar/windots)<br>
-5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+1. ⬆️ Pushed 1 commit(s) to [NTGNguyen/dotfiles](https://github.com/NTGNguyen/dotfiles)<br>
+2. ⬆️ Pushed 1 commit(s) to [NTGNguyen/dotfiles](https://github.com/NTGNguyen/dotfiles)<br>
+3. ❌ Closed PR [#1](https://github.com/NTGNguyen/dotfiles/pull/1) in [NTGNguyen/dotfiles](https://github.com/NTGNguyen/dotfiles)<br>
+4. 📔 Created new repository [NTGNguyen/dotfiles](https://github.com/NTGNguyen/dotfiles)<br>
+5. ⬆️ Pushed 1 commit(s) to [uitdots/nvim](https://github.com/uitdots/nvim)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
