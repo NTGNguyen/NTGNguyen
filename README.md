@@ -150,9 +150,9 @@ TypeScript               1 repo              ███░░░░░░░░�
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [NTGNguyen/dotfiles](https://github.com/NTGNguyen/dotfiles)<br>
 2. ⬆️ Pushed 1 commit(s) to [NTGNguyen/dotfiles](https://github.com/NTGNguyen/dotfiles)<br>
-3. ⭐ Starred [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)<br>
-4. ⭐ Starred [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE)<br>
-5. ⬆️ Pushed 1 commit(s) to [NTGNguyen/dotfiles](https://github.com/NTGNguyen/dotfiles)<br>
+3. ⬆️ Pushed 1 commit(s) to [NTGNguyen/dotfiles](https://github.com/NTGNguyen/dotfiles)<br>
+4. ⭐ Starred [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)<br>
+5. ⭐ Starred [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
