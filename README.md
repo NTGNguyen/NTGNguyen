@@ -145,11 +145,11 @@ TypeScript               1 repo              ███░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [NTGNguyen/dotfiles](https://github.com/NTGNguyen/dotfiles)<br>
-2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
-3. ⭐ Starred [typecraft-dev/dotfiles](https://github.com/typecraft-dev/dotfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [NTGNguyen/dotfiles](https://github.com/NTGNguyen/dotfiles)<br>
-5. ⬆️ Pushed 1 commit(s) to [NTGNguyen/dotfiles](https://github.com/NTGNguyen/dotfiles)<br>
+1. ⭐ Starred [yasunori0418/dotfiles](https://github.com/yasunori0418/dotfiles)<br>
+2. ⬆️ Pushed 1 commit(s) to [NTGNguyen/dotfiles](https://github.com/NTGNguyen/dotfiles)<br>
+3. ⬆️ Pushed 1 commit(s) to [NTGNguyen/dotfiles](https://github.com/NTGNguyen/dotfiles)<br>
+4. ⬆️ Pushed 1 commit(s) to [coinhub-uit/server](https://github.com/coinhub-uit/server)<br>
+5. ⭐ Starred [typecraft-dev/dotfiles](https://github.com/typecraft-dev/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
