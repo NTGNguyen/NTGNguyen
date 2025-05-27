@@ -151,8 +151,8 @@ TypeScript               1 repo              ███░░░░░░░░�
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
 2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-3. ⬆️ Pushed 1 commit(s) to [NTGNguyen/dotfiles](https://github.com/NTGNguyen/dotfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [uitdots/vim](https://github.com/uitdots/vim)<br>
+3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+4. ⬆️ Pushed 1 commit(s) to [NTGNguyen/dotfiles](https://github.com/NTGNguyen/dotfiles)<br>
 5. ⬆️ Pushed 1 commit(s) to [uitdots/vim](https://github.com/uitdots/vim)<br>
 <!--RECENT_ACTIVITY:end-->
 
