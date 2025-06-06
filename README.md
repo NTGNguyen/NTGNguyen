@@ -152,7 +152,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 2. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
 3. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
 4. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
-5. ⬆️ Pushed 2 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
+5. ⬆️ Pushed 1 commit(s) to [coinhub-uit/android](https://github.com/coinhub-uit/android)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
