@@ -105,19 +105,16 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    5 mins              ████████████████████████░   96.86 % 
-Go                       0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Zsh                      5 mins              ████████████████████████░   96.86 % 
-Neovim                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Terminal                 5 mins              ████████████████████████░   96.86 % 
-Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -133,7 +130,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 02/09/2025 18:45:29 UTC
+ Last Updated on 03/09/2025 18:44:22 UTC
 <!--END_SECTION:waka-->
 <hr>
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
