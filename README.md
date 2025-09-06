@@ -105,16 +105,16 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Zsh                      1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Terminal                 1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -130,7 +130,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 05/09/2025 18:44:51 UTC
+ Last Updated on 06/09/2025 18:42:14 UTC
 <!--END_SECTION:waka-->
 <hr>
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
