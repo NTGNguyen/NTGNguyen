@@ -147,8 +147,8 @@ TypeScript               1 repo              ███░░░░░░░░�
 1. ⬆️ Pushed 1 commit(s) to [electricilies/incremental-model-slide](https://github.com/electricilies/incremental-model-slide)<br>
 2. ⬆️ Pushed 1 commit(s) to [electricilies/incremental-model-slide](https://github.com/electricilies/incremental-model-slide)<br>
 3. ⬆️ Pushed 1 commit(s) to [electricilies/incremental-model-slide](https://github.com/electricilies/incremental-model-slide)<br>
-4. 📔 Created new repository [electricilies/incremental-model-slide](https://github.com/electricilies/incremental-model-slide)<br>
-5. ⬆️ Pushed 1 commit(s) to [NTGNguyen/dotfiles](https://github.com/NTGNguyen/dotfiles)<br>
+4. ⬆️ Pushed 1 commit(s) to [electricilies/incremental-model-slide](https://github.com/electricilies/incremental-model-slide)<br>
+5. ⬆️ Pushed 1 commit(s) to [electricilies/incremental-model-slide](https://github.com/electricilies/incremental-model-slide)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
