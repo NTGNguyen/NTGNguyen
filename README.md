@@ -145,8 +145,8 @@ TypeScript               1 repo              ███░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
-2. ⬆️ Pushed 1 commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
+1. ⭐ Starred [gin-gonic/gin](https://github.com/gin-gonic/gin)<br>
+2. ⭐ Starred [DoWithLogic/golang-clean-architecture](https://github.com/DoWithLogic/golang-clean-architecture)<br>
 3. ⬆️ Pushed 1 commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
 4. ⬆️ Pushed 1 commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
 5. ⬆️ Pushed 1 commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
