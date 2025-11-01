@@ -147,11 +147,11 @@ TypeScript               1 repo              ███░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [vhoang-long/vinwonder](https://github.com/vhoang-long/vinwonder)<br>
-2. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
+1. ⬆️ Pushed undefined commit(s) to [vhoang-long/vinwonder](https://github.com/vhoang-long/vinwonder)<br>
+2. 🤝 Became collaborator on [vhoang-long/vinwonder](https://github.com/vhoang-long/vinwonder)<br>
 3. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
-4. ⭐ Starred [swaggo/swag](https://github.com/swaggo/swag)<br>
-5. ⭐ Starred [swaggo/gin-swagger](https://github.com/swaggo/gin-swagger)<br>
+4. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
+5. ⭐ Starred [swaggo/swag](https://github.com/swaggo/swag)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
