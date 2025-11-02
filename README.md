@@ -118,11 +118,11 @@ TSQL                     1 repo              ██░░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
-2. ⬆️ Pushed undefined commit(s) to [electricilies/electricilies.github.io](https://github.com/electricilies/electricilies.github.io)<br>
-3. ⬆️ Pushed undefined commit(s) to [vhoang-long/vinwonder](https://github.com/vhoang-long/vinwonder)<br>
-4. ⬆️ Pushed undefined commit(s) to [vhoang-long/vinwonder](https://github.com/vhoang-long/vinwonder)<br>
-5. ⭐ Starred [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)<br>
+1. ⭐ Starred [kubernetes/apiserver](https://github.com/kubernetes/apiserver)<br>
+2. ⭐ Starred [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
+3. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
+4. ⬆️ Pushed undefined commit(s) to [electricilies/electricilies.github.io](https://github.com/electricilies/electricilies.github.io)<br>
+5. ⬆️ Pushed undefined commit(s) to [vhoang-long/vinwonder](https://github.com/vhoang-long/vinwonder)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
