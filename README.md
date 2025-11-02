@@ -118,11 +118,11 @@ TSQL                     1 repo              ██░░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kubernetes/apiserver](https://github.com/kubernetes/apiserver)<br>
-2. ⭐ Starred [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
+1. ⭐ Starred [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)<br>
+2. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
 3. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
-4. ⬆️ Pushed undefined commit(s) to [electricilies/electricilies.github.io](https://github.com/electricilies/electricilies.github.io)<br>
-5. ⬆️ Pushed undefined commit(s) to [vhoang-long/vinwonder](https://github.com/vhoang-long/vinwonder)<br>
+4. ⭐ Starred [kubernetes/apiserver](https://github.com/kubernetes/apiserver)<br>
+5. ⭐ Starred [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
