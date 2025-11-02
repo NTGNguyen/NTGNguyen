@@ -118,8 +118,8 @@ TSQL                     1 repo              ██░░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)<br>
-2. ⬆️ Pushed undefined commit(s) to [vhoang-long/vinwonder](https://github.com/vhoang-long/vinwonder)<br>
+1. ⬆️ Pushed undefined commit(s) to [vhoang-long/vinwonder](https://github.com/vhoang-long/vinwonder)<br>
+2. ⭐ Starred [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)<br>
 3. ⬆️ Pushed undefined commit(s) to [vhoang-long/vinwonder](https://github.com/vhoang-long/vinwonder)<br>
 4. ⬆️ Pushed undefined commit(s) to [vhoang-long/vinwonder](https://github.com/vhoang-long/vinwonder)<br>
 5. ⬆️ Pushed undefined commit(s) to [vhoang-long/vinwonder](https://github.com/vhoang-long/vinwonder)<br>
