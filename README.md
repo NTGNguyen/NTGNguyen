@@ -147,11 +147,11 @@ TSQL                     1 repo              ██░░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)<br>
-2. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
-3. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
-4. ⭐ Starred [kubernetes/apiserver](https://github.com/kubernetes/apiserver)<br>
-5. ⭐ Starred [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)<br>
+1. ⭐ Starred [keycloak/terraform-provider-keycloak](https://github.com/keycloak/terraform-provider-keycloak)<br>
+2. ⭐ Starred [nquangit/windows-rice](https://github.com/nquangit/windows-rice)<br>
+3. ⭐ Starred [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)<br>
+4. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
+5. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
