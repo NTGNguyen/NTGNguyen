@@ -147,10 +147,10 @@ TSQL                     1 repo              ██░░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [electricilies/electricilies.github.io](https://github.com/electricilies/electricilies.github.io)<br>
-2. ⭐ Starred [keycloak/terraform-provider-keycloak](https://github.com/keycloak/terraform-provider-keycloak)<br>
-3. ⭐ Starred [nquangit/windows-rice](https://github.com/nquangit/windows-rice)<br>
-4. ⭐ Starred [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)<br>
+1. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
+2. ⬆️ Pushed undefined commit(s) to [electricilies/electricilies.github.io](https://github.com/electricilies/electricilies.github.io)<br>
+3. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
+4. ⬆️ Pushed undefined commit(s) to [electricilies/electricilies.github.io](https://github.com/electricilies/electricilies.github.io)<br>
 5. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
