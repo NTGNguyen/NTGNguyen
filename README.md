@@ -146,9 +146,9 @@ TSQL                     1 repo              ██░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
-2. ⭐ Starred [jackc/pgx](https://github.com/jackc/pgx)<br>
+2. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
 3. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
-4. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
+4. ⭐ Starred [jackc/pgx](https://github.com/jackc/pgx)<br>
 5. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
