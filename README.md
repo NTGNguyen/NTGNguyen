@@ -147,8 +147,8 @@ TSQL                     1 repo              ██░░░░░░░░░�
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
 2. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
-3. ⬆️ Pushed undefined commit(s) to [electricilies/SE358.Q12](https://github.com/electricilies/SE358.Q12)<br>
-4. ⬆️ Pushed undefined commit(s) to [NTGNguyen/dotfiles](https://github.com/NTGNguyen/dotfiles)<br>
+3. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
+4. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
 5. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
