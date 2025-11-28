@@ -145,11 +145,11 @@ TSQL                     1 repo              ██░░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [zitadel/zitadel](https://github.com/zitadel/zitadel)<br>
-2. ⬆️ Pushed undefined commit(s) to [NTGNguyen/Q-Learning_Graph-Visualization](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization)<br>
+1. ⬆️ Pushed undefined commit(s) to [NTGNguyen/dotfiles](https://github.com/NTGNguyen/dotfiles)<br>
+2. ⭐ Starred [zitadel/zitadel](https://github.com/zitadel/zitadel)<br>
 3. ⬆️ Pushed undefined commit(s) to [NTGNguyen/Q-Learning_Graph-Visualization](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization)<br>
-4. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
-5. ⭐ Starred [mhanberg/.dotfiles](https://github.com/mhanberg/.dotfiles)<br>
+4. ⬆️ Pushed undefined commit(s) to [NTGNguyen/Q-Learning_Graph-Visualization](https://github.com/NTGNguyen/Q-Learning_Graph-Visualization)<br>
+5. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
