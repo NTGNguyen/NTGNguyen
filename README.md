@@ -149,8 +149,8 @@ TSQL                     1 repo              ██░░░░░░░░░�
 1. ⬆️ Pushed undefined commit(s) to [honya-bookstore/backend](https://github.com/honya-bookstore/backend)<br>
 2. ⬆️ Pushed undefined commit(s) to [honya-bookstore/backend](https://github.com/honya-bookstore/backend)<br>
 3. ⬆️ Pushed undefined commit(s) to [honya-bookstore/backend](https://github.com/honya-bookstore/backend)<br>
-4. ⭐ Starred [xDatx/Studocu-Helper](https://github.com/xDatx/Studocu-Helper)<br>
-5. ⬆️ Pushed undefined commit(s) to [honya-bookstore/backend](https://github.com/honya-bookstore/backend)<br>
+4. ⬆️ Pushed undefined commit(s) to [honya-bookstore/backend](https://github.com/honya-bookstore/backend)<br>
+5. ⭐ Starred [xDatx/Studocu-Helper](https://github.com/xDatx/Studocu-Helper)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
