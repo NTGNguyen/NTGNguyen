@@ -146,9 +146,9 @@ TSQL                     1 repo              ██░░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🤝 Became collaborator on [Nebbilies/CaroGame](https://github.com/Nebbilies/CaroGame)<br>
-2. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
-3. ⬆️ Pushed undefined commit(s) to [honya-bookstore/backend](https://github.com/honya-bookstore/backend)<br>
+1. ⬆️ Pushed undefined commit(s) to [Nebbilies/CaroGame](https://github.com/Nebbilies/CaroGame)<br>
+2. 🤝 Became collaborator on [Nebbilies/CaroGame](https://github.com/Nebbilies/CaroGame)<br>
+3. ⬆️ Pushed undefined commit(s) to [electricilies/backend](https://github.com/electricilies/backend)<br>
 4. ⬆️ Pushed undefined commit(s) to [honya-bookstore/backend](https://github.com/honya-bookstore/backend)<br>
 5. ⬆️ Pushed undefined commit(s) to [honya-bookstore/backend](https://github.com/honya-bookstore/backend)<br>
 <!--RECENT_ACTIVITY:end-->
