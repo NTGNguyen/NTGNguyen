@@ -119,7 +119,6 @@ C++                      1 repo              ██░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [NTGNguyen/nx-typescript-monorepo-test](https://github.com/NTGNguyen/nx-typescript-monorepo-test)<br>
-2. ⬆️ Pushed undefined commit(s) to [NTGNguyen/dotfiles](https://github.com/NTGNguyen/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
