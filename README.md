@@ -105,16 +105,16 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-word                     30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -130,7 +130,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/02/2026 19:12:47 UTC
+ Last Updated on 06/02/2026 19:12:32 UTC
 <!--END_SECTION:waka-->
 <hr>
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
