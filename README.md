@@ -105,41 +105,41 @@
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    9 hrs 33 mins       ██████████████████████░░░   87.82 % 
-TypeScript               1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Other                    9 hrs 31 mins       ██████████████████████░░░   87.78 % 
+TypeScript               1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
 hyprlang                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Chrome                   9 hrs 29 mins       ██████████████████████░░░   87.15 % 
-Neovim                   42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Zsh                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Chrome                   9 hrs 27 mins       ██████████████████████░░░   87.11 % 
+Neovim                   42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Zsh                      41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
 
 🐱‍💻 Projects: 
-react-complex-tree       5 hrs 53 mins       ██████████████░░░░░░░░░░░   54.08 % 
-Terminal                 2 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
-notopia-web              52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-opencode-gemini-auth     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-ui                       26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+react-complex-tree       5 hrs 53 mins       ██████████████░░░░░░░░░░░   54.26 % 
+Terminal                 2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+notopia-web              52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+opencode-gemini-auth     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+ui                       26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 
 💻 Operating System: 
-Linux                    10 hrs 53 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   4 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
-C#                       2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python                   4 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+C#                       2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 
 
 
- Last Updated on 21/03/2026 18:59:54 UTC
+ Last Updated on 22/03/2026 19:01:21 UTC
 <!--END_SECTION:waka-->
 <hr>
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
