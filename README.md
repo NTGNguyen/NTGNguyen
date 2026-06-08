@@ -119,10 +119,10 @@ C++                      1 repo              ██░░░░░░░░░�
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [notopia-uit/se121-slide](https://github.com/notopia-uit/se121-slide)<br>
-2. ⭐ Starred [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-3. ⬆️ Pushed undefined commit(s) to [notopia-uit/report](https://github.com/notopia-uit/report)<br>
-4. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-5. 💪 Opened PR [#276](undefined) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+2. ⬆️ Pushed undefined commit(s) to [notopia-uit/se121-slide](https://github.com/notopia-uit/se121-slide)<br>
+3. ⭐ Starred [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+4. ⬆️ Pushed undefined commit(s) to [notopia-uit/report](https://github.com/notopia-uit/report)<br>
+5. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
