@@ -139,8 +139,6 @@ C++                      1 repo              ██░░░░░░░░░�
 1. ⬆️ Pushed undefined commit(s) to [notopia-uit/report](https://github.com/notopia-uit/report)<br>
 2. ⬆️ Pushed undefined commit(s) to [notopia-uit/report](https://github.com/notopia-uit/report)<br>
 3. ⬆️ Pushed undefined commit(s) to [notopia-uit/se121-slide](https://github.com/notopia-uit/se121-slide)<br>
-4. ⬆️ Pushed undefined commit(s) to [notopia-uit/se121-slide](https://github.com/notopia-uit/se121-slide)<br>
-5. ⬆️ Pushed undefined commit(s) to [notopia-uit/se121-slide](https://github.com/notopia-uit/se121-slide)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
