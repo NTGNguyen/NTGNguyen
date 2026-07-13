@@ -136,7 +136,6 @@ C++                      1 repo              ██░░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [notopia-uit/report](https://github.com/notopia-uit/report)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
