@@ -99,24 +99,6 @@
 <hr>
 <h2 align = "center" style="margin-top:20px ">🕘 WakaTime 🕘</h2> 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -130,7 +112,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/07/2026 19:51:53 UTC
+ Last Updated on 23/07/2026 19:55:08 UTC
 <!--END_SECTION:waka-->
 <hr>
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
