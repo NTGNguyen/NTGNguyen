@@ -101,30 +101,6 @@
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20min-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -138,7 +114,7 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 20:07:34 UTC
+ Last Updated on 07/08/2026 00:23:21 UTC
 <!--END_SECTION:waka-->
 <hr>
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
