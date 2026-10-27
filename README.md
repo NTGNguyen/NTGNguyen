@@ -148,7 +148,7 @@ C++                      1 repo              ██░░░░░░░░░�
 2. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 3. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 4. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-5. ✔️ Closed issue [#277](https://github.com/notopia-uit/notopia/issues/277) in [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+5. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 <!--RECENT_ACTIVITY:end-->
 
  
