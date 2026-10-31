@@ -144,9 +144,9 @@ C++                      1 repo              ██░░░░░░░░░�
 <h2 align="center"> ⚡ Recent Activity ⚡</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
-2. ⬆️ Pushed undefined commit(s) to [mastercookvn/mastercookvn](https://github.com/mastercookvn/mastercookvn)<br>
-3. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+1. ⬆️ Pushed undefined commit(s) to [mastercookvn/mastercookvn](https://github.com/mastercookvn/mastercookvn)<br>
+2. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
+3. ⬆️ Pushed undefined commit(s) to [mastercookvn/mastercookvn](https://github.com/mastercookvn/mastercookvn)<br>
 4. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 5. ⬆️ Pushed undefined commit(s) to [notopia-uit/notopia](https://github.com/notopia-uit/notopia)<br>
 <!--RECENT_ACTIVITY:end-->
